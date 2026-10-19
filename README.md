@@ -1,5 +1,3 @@
-# scifi-visual-world-builder
-An automated Python world-building tool that uses the Gemini API to generate deep, immersive lore pages for retro sci-fi indie games.
 # 🪐 Sci-Fi Visual World-Builder AI
 
 A automated python script designed for sci-fi retro indie platformer game development. This project hooks directly into the **Google Gemini API** to instantly generate rich, atmospheric lore profiles, environmental designs, and faction data for fictional game worlds.
